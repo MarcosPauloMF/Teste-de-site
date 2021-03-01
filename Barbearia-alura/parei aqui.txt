@@ -1,0 +1,35 @@
+https://cursos.alura.com.br/course/html5-css3-avancando-css/task/63324
+
+front end
+https://cursos.alura.com.br/formacao-front-end
+
+.mapa {
+	padding: 3em 0;
+	background: linear-gradient(#FEFEFE, #888888);
+
+}
+
+.principal {
+	padding: 3em 0;
+	background: #FEFEFE;
+	width:  940px;
+	margin: 0 auto;
+}
+
+.beneficios {
+	padding: 3em 0;
+	background: #888888;
+}
+
+1242 x 2208
+1242 x 2688 esticada
+2048 x 2732
+
+60 x 120
+
+
+Um App católico e devoto de Maria no seu bolso!
+
+Evangelhos diários, Santo do dia, Oração do terço, Rezem por mim e Muuito mais
+
+Associação Cultural Nossa Senhra de Fátima
